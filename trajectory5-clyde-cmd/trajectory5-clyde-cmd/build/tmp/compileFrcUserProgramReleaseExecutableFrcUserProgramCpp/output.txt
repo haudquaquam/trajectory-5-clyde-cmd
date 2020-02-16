@@ -1,0 +1,10 @@
+See file:///C:/Users/raexi/OneDrive/Desktop/Robotics/trajectory5-clyde-cmd/trajectory5-clyde-cmd/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Constants.cpp successful.
+
+compiling DriveSubsystem.cpp successful.
+
+compiling Robot.cpp successful.
+
+compiling RobotContainer.cpp successful.
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/raexi/OneDrive/Desktop/Robotics/trajectory5-clyde-cmd/trajectory5-clyde-cmd/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
